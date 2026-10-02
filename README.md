@@ -9,14 +9,15 @@ QRShield Universal is an asynchronous cyber-physical security architecture desig
 
 ## 📸 System Interface & Live Telemetry
 
-<p align="center">
-  <img src="./assets/scanner-hud.png" width="48%" alt="QRShield Inspector HUD" />
-  <img src="./assets/soc-dashboard.png" width="48%" alt="Enterprise SOC Dashboard" />
-</p>
-<p align="center">
-  <img src="./assets/diagnostics.png" width="48%" alt="Deep Payload Diagnostics" />
-  <img src="./assets/soundbox.png" width="48%" alt="Digital Soundbox Terminal" />
-</p>
+### 1. Real-Time AR Inspector HUD
+<img width="1024" height="595" alt="image" src="https://github.com/user-attachments/assets/1bf08e3b-816f-42ff-a458-2ec39da9fbaa" />
+### 2. Enterprise CISO SOC Hub
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/b1003e84-a2f7-4117-9e9d-80d4f8ce88dc" />
+### 3. Deep Payload Diagnostics
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/39bad7d3-44b1-41a8-84df-c3f3de6536a3" />
+### 4. Zero-Hardware Digital Soundbox
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/3c9a3d60-7ec9-4c78-9956-b29e204f3fb0" />
+
 
 | Interface | Description |
 | :--- | :--- |
